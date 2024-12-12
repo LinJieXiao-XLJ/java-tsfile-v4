@@ -16,12 +16,12 @@
 |—— data // 用于存放生成的tsfile文件
 |—— src
 |   |—— main
-|	       |—— java\org\apache\iotdb
+|          |—— java\org\apache\iotdb
 |                                  |—— Main.java // 启动文件
 |                                  |—— tree      // 存放树模型tsfile代码目录
 |                                  |—— table     // 存放表模型tsfile代码目录
 |                                  |—— utils     // 存放工具类型代码
-|    	   |—— resources
+|          |—— resources
 |                      |—— config.properties // 配置文件
 |——pom.xml // 项目依赖
 ```
