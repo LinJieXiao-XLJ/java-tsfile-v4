@@ -13,7 +13,6 @@
 ### 目录结构介绍
 
 ```
-|—— data // 用于存放生成的tsfile文件
 |—— src
 |   |—— main
 |          |—— java\org\apache\iotdb
