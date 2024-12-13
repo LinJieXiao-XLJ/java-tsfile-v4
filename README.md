@@ -8,7 +8,7 @@
 
 - Java 8+
 - Maven 3.6+
-- TsFile 1.1.0的Maven依赖
+- TsFile 1.2.0+的Maven依赖
 
 ### 目录结构介绍
 
